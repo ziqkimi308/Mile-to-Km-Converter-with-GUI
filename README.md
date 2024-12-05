@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Mile to Km Converter with GUI
+# Mile to Km Converter with GUI
 
 - The Miles to Kilometer Converter is a simple graphical user interface (GUI) app built using Python's Tkinter library. It allows users to convert miles into kilometers by entering a value in miles and clicking a "Calculate" button. The app displays the result in kilometers, rounding to the nearest whole number.
 
